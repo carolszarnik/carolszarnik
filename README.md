@@ -64,6 +64,7 @@ Busco transformar meus conhecimentos em prática por meio de **projetos acadêmi
 ### 📜 GitHub Foundations
 
 - ✅ [GitHub Foundations — Parte 1 de 2](https://learn.microsoft.com/api/achievements/share/pt-br/CAROLINASZARNIKRABERO-6488/2T83SHWV?sharingId=303FE5439232895B)
+- ✅ [GitHub Foundations — Parte 2 de 2](https://learn.microsoft.com/api/achievements/share/pt-br/CAROLINASZARNIKRABERO-6488/Y4CFJLFR?sharingId=303FE5439232895B)
 
 *Concluídas com êxito em setembro de 2026.*
 
